@@ -1,5 +1,5 @@
 # MongoDB Atlas
-CS628 MongoDB
+CS628 Express & Express
 
 ## Resource
 ### Development Environment
