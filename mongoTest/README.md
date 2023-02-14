@@ -17,7 +17,7 @@ CS628 Express & Express
 * [W3Schools - MongoDB Tutorial](https://www.w3schools.com/mongodb/index.php)
 * [MongoDB Atlas - Resources](https://www.mongodb.com/docs/atlas/)
 * [MongoDB - Express & MongoDB](https://www.mongodb.com/compatibility/express)
-* [Mongoose - Express & MongoDB]([https://www.makeareadme.com/](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose))
+* [Mongoose - Express & MongoDB](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose)
 * [MongoDB Node.js Developer Path](https://learn.mongodb.com/learning-paths/mongodb-nodejs-developer-path)
 
 ### MERN Stack
