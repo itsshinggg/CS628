@@ -15,6 +15,7 @@ CS628 Express & Express
 * [Express - Home](https://expressjs.com/)
 #### MongoDB
 * [W3Schools - MongoDB Tutorial](https://www.w3schools.com/mongodb/index.php)
+* [Mongoose Documnet](https://mongoosejs.com/docs/)
 * [MongoDB Atlas - Resources](https://www.mongodb.com/docs/atlas/)
 * [MongoDB - Express & MongoDB](https://www.mongodb.com/compatibility/express)
 * [Mongoose - Express & MongoDB](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose)
