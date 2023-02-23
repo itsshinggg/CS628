@@ -1,4 +1,4 @@
-# CS628 SandBox
+# CS628 HOS
 CS628 Full-Stack Development - Web Application
 
 ## Resource
